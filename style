@@ -1,0 +1,12 @@
+body {
+	text-align : center;
+	background-color: #BBCFE0;
+	min-width : 770px ;
+	}
+
+#wrapper{
+	width: 770px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	}
