@@ -55,10 +55,6 @@ p{
   text-decoration: none;
 }
 
-#menu ul li a:hover{
-  background-color: #5F94DC;  
-}
-
 #menu ul li a.active,
 #menu ul li a.active:hover {
    color:#fff;
