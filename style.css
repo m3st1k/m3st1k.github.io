@@ -49,14 +49,14 @@ p{
   display: block;
   padding: 3px 10px;
   margin: 0 0 0 1px;
-  background-color: #44699C;  
   font-family: Verdana;
-  color: white;
+  background:#ddd;
+  color:#000;
   text-decoration: none;
 }
 
 #menu ul li a.active,
-#menu ul li a.active:hover {
+#menu ul li a.active:hover{
    color:#fff;
    background:#000;
    font-weight:bold;
