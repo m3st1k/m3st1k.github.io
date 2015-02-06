@@ -11,6 +11,8 @@ p{
 }
 
 #wrapper{
+  width: 960px;
+  height: auto;
 }
 
 #maincontainer{
