@@ -23,19 +23,22 @@ p{
   float: left;
   width: 100%;
   position: relative;
+  border-bottom: 4px solid #000;
 }
 
 #menu ul{
   list-style-type: none;
+  left: 50%;
 }
 
 #menu ul li{
   display: inline;
   margin: 0;
+  right: 50%;
 }
 
 #menu ul li a{
-  padding: 5px;
+  padding: 10px;
   background-color: #44699C;  
   font-family: Verdana;
   color: white;
