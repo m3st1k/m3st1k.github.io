@@ -10,9 +10,13 @@ p{
   
 }
 
+ul{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 li{
   display: inline;
-  text-align: center;
   margin: 20px;
 }
 
