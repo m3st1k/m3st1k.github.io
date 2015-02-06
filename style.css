@@ -7,7 +7,7 @@ h1{
 }
 
 p{
-  color: #ffffff;
+  color: #FFFFFF;
 }
 
 #wrapper{
@@ -18,7 +18,7 @@ p{
   width: 960px;
   height: auto;
   background: #000000;
-  margin-top: 40px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -64,7 +64,7 @@ p{
 
 #menu ul li a.active,
 #menu ul li a.active:hover{
-   color:#fff;
+   color:#FFFFFF;
    background:#000;
    font-weight:bold;
 }
