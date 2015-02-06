@@ -35,3 +35,6 @@ p{
   color: white;
 }
 
+#menu ul li a:hover{
+  background-color: #5F94DC;  
+}
