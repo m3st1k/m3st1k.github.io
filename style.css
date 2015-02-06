@@ -11,12 +11,12 @@ p{
 }
 
 #wrapper{
-  width: 960px;
-  height: auto;
-  background: #fff;
 }
 
 #maincontainer{
+  width: 960px;
+  height: auto;
+  background: #fff;
 }
 
 #nav{
