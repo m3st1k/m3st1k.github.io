@@ -27,6 +27,8 @@ p{
 }
 
 #menu ul{
+  position: relative;
+  clear: left;
   list-style-type: none;
   left: 50%;
   float: left;
@@ -36,6 +38,7 @@ p{
 }
 
 #menu ul li{
+  position: relative;
   display: block;
   margin: 0;
   right: 50%;
@@ -43,7 +46,9 @@ p{
 }
 
 #menu ul li a{
-  padding: 0;
+  display: block;
+  padding: 3px 10px;
+  margin: 0 0 0 1px;
   background-color: #44699C;  
   font-family: Verdana;
   color: white;
