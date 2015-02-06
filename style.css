@@ -19,6 +19,12 @@ p{
 #nav{
 }
 
+#menu{
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
 #menu ul{
   list-style-type: none;
 }
