@@ -29,12 +29,14 @@ p{
 #menu ul{
   list-style-type: none;
   left: 50%;
+  float: left;
 }
 
 #menu ul li{
   display: inline;
   margin: 0;
   right: 50%;
+  float: left;
 }
 
 #menu ul li a{
