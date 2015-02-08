@@ -27,7 +27,7 @@ h1{
 }
 
 #maincontainer{
-  position: relative;
+  position: absolute;
   float: center;
   width: 960px;
   height: auto;
@@ -41,9 +41,9 @@ h1{
 }
 
 #menu{
+  position: relative;
   float: left;
   width: 100%;
-  position: relative;
   border-bottom: 4px solid #000;
 }
 
