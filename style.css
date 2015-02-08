@@ -6,12 +6,13 @@ h1{
   margin-right: auto;
 }
 
-p{
+p.header{
   color: #FFFFFF;
 }
 
 p.maincontainer{
   margin-left: 10px;
+  color: #FFFFFF;
 }
 
 #wrapper{
