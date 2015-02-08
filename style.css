@@ -6,15 +6,15 @@ h1{
   margin-right: auto;
 }
 
-p.header{
-  color: #FFFFFF;
+#header p{
+  color: #000000;
   text-align: center;
   font-size: 25px;
   margin-left: auto;
   margin-right: auto;
 }
 
-p.maincontainer{
+#maincontainer p{
   margin-left: 10px;
   color: #FFFFFF;
 }
