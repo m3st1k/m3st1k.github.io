@@ -7,6 +7,11 @@ h1{
   font-family: Verdana;
 }
 
+#header{
+  position: relative;
+  background: #6cf;
+}
+
 #header p{
   color: #000000;
   text-align: center;
@@ -26,7 +31,6 @@ h1{
 #wrapper{
   min-height:100%;
   position:relative;
-  background: #6cf;
 }
 
 #maincontainer{
@@ -63,14 +67,14 @@ h1{
 
 #menu ul li{
   position: relative;
-  display: block;
+  display: inline;
   margin: 0;
   right: 50%;
   float: left;
 }
 
 #menu ul li a{
-  display: block;
+  display: inline;
   padding: 3px 10px;
   margin: 0 0 0 1px;
   font-family: Verdana;
