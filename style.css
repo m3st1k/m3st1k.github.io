@@ -27,7 +27,7 @@ h1{
 }
 
 #maincontainer{
-  float: left;
+  float: center;
   width: 960px;
   height: auto;
   background: #000000;
