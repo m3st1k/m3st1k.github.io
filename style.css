@@ -112,11 +112,11 @@ body > #wrapper{
    font-weight:bold;
 }
 
-#menu ul ul{
+menu ul ul{
 	display: none;
 }
 
-#menu ul li: hover > ul{
+menu ul li: hover > ul{
 	display: block;
 }
 
