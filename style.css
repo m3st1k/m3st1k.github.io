@@ -111,17 +111,3 @@ body > #wrapper{
    background:#000;
    font-weight:bold;
 }
-
-#dropdown ul{
-	list-style:none;
-	position: absolute;
-	left: -9999px;
-}
-
-#dropdown ul a{
-	white-space: nowrap;
-}
-
-#dropdown li:hover ul{
-	left: 0;
-}
