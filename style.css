@@ -120,3 +120,6 @@ menu ul li: hover > ul{
 	display: block;
 }
 
+menu ul ul li{
+	display: inline-block;
+}
