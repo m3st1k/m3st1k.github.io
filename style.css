@@ -112,14 +112,16 @@ body > #wrapper{
    font-weight:bold;
 }
 
-menu ul ul{
-	display: none;
+#dropdown ul{
+	list-style:none;
+	position: absolute;
+	left: -9999px;
 }
 
-menu ul li: hover > ul{
-	display: block;
+#dropdown ul a{
+	white-space: nowrap;
 }
 
-menu ul ul li{
-	display: inline-block;
+#dropdown li:hover ul{
+	left: 0;
 }
