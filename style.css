@@ -4,6 +4,10 @@ html, body, #wrapper{
   padding: 0;
 }
 
+body{
+	background-image: url("grow-home.jpg");
+}
+
 h1{
   text-align: center;
   text-decoration: underline;
