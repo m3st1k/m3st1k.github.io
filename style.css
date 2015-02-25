@@ -5,7 +5,7 @@ html, body, #wrapper{
 }
 
 html{
-	background: url("grow-home2.jpg") no-repeat center center fixed;
+	background: url("grow-home.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
