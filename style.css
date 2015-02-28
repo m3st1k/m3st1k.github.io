@@ -35,11 +35,10 @@ h1{
 }
 
 #maincontainer p{
-  margin-left: 10px;
-  margin-right: 10px;
   margin-top: 10px;
   color: #FFFFFF;
   font-family: Verdana;
+  text-align: center;
 }
 
 #wrapper{
@@ -71,7 +70,8 @@ body > #wrapper{
   margin-top: -3em;
   background-color: black; 
   color: white; 
-  font-size: 200%; 
+  font-size: 100%;
+  font-family: verdana;
   text-align: center; 
   line-height: 3em;
 }
