@@ -101,6 +101,10 @@
   color: black;
 }
 
+#banner{
+ margin-left: 20px;
+}
+
 #maincontainer{
   position: relative;
   margin-left: auto;
