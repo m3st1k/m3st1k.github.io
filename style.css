@@ -1,120 +1,83 @@
-html, body, #wrapper{
+#body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+}
+
+#content{
+  position: relative;
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-html{
-	background: url("light-textured-backround.jpg") no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
-h1{
-  text-align: center;
-  text-decoration: underline;
-  font-size: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: Verdana;
-  color: #2E2D2B;
-}
-
-#header{
-  position: relative;
-}
-
-#header p{
-  color: #2E2D2B;
-  text-align: center;
-  font-size: 25px;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: Verdana;
-}
-
-#maincontainer p{
-  margin-top: 20px;
-  color: #FFFFFF;
-  font-family: Verdana;
-  text-align: center;
-}
-
-#wrapper{
-  min-height:100%;
-  position:relative;
-}
-
-body > #wrapper{
-  height: auto;
-  min-height: 100%;
-}
-
-#maincontainer{
-  position: relative;
-  width: 960px;
-  height: auto;
-  background: #2E2D2B;
-  margin-top: 80px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 3em;
-}
-
-#footer{
-  clear: both;
-  position: relative;
-  z-index: 10;
-  height: 3em;
-  margin-top: -3em;
-  background-color: #2E2D2B; 
-  color: white; 
-  font-size: 100%;
-  font-family: verdana;
-  text-align: center; 
-  line-height: 3em;
+  background: #eaeaea;
 }
 
 #menu{
   position: relative;
-  float: left;
+  background: black;
   width: 100%;
+  height: 50px;
 }
 
-#menu ul{
+#menu a{
   position: relative;
-  clear: left;
-  list-style-type: none;
-  left: 50%;
-  float: left;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-
-#menu ul li{
-  position: relative;
-  display: inline;
-  margin: 0;
-  right: 50%;
-  float: left;
-}
-
-#menu ul li a{
-  display: inline;
-  padding: 3px 10px;
-  margin: 0 0 0 1px;
-  font-family: Verdana;
-  background:#ddd;
-  color:#2E2D2B;
+  color: white;
   text-decoration: none;
+  margin: 18px;
 }
 
-#menu ul li a.active,
-#menu ul li a.active:hover{
-   color:#FFFFFF;
-   background:#2E2D2B;
-   font-weight:bold;
+#menulinks{
+  position: relative;
+  margin-left: 45px;
+  padding-top:12px;
+  
+}
+
+#header{
+  position: relative;
+  background: #0099FF;
+  width: 100%;
+  height: 150px;
+  padding-top: 1px;
+}
+
+#header h1{
+  margin-left: 60px;
+  font-size: 45px;
+  margin-top: 15px;
+}
+
+#header h2{
+  margin-left: 60px;
+  font-size: 25px;
+}
+
+#maincontainer{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 960px;
+  height: 650px;
+  background: white;
+  padding-top:10px;
+}
+
+#maincontainer p{
+  text-align: center;
+}
+
+#footer{
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background: #0099FF;
+}
+
+#footer p{
+  padding-top:12px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: black;
+  font-size: 18px;
 }
