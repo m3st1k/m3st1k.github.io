@@ -83,6 +83,7 @@
   height: 250px;
   padding-top: 1px;
   z-index: 1000;
+  border-bottom: solid 1px #878787;
 }
 
 #header h1{
@@ -103,7 +104,7 @@
 
 #banner{
   position: relative;
-  margin-left: 245px;
+  margin-left: 235px;
   padding-top: 1px;
 }
 
@@ -118,6 +119,7 @@
   background: white;
   padding-top:10px;
   z-index: 2000;
+  border: solid 1px #878787;
 }
 
 #maincontainer p{
@@ -134,6 +136,7 @@
   height: 50px;
   background: #079ebc;
   margin-bottom: 0px;
+  border-top: solid 1px #878787;
 }
 
 #footer p{
@@ -141,7 +144,7 @@
   text-align: center;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: black;
+  color: white;
   font-size: 18px;
 }
 
