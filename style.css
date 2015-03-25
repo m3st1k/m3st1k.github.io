@@ -1,13 +1,10 @@
-body{
-  font-family: 'Open Sans', sans-serif;
-}
-
 #content{
   position: relative;
   height: 100%;
   margin: 0;
   padding: 0;
   background: #eaeaea;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #menu{
