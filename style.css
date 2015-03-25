@@ -102,6 +102,10 @@
   color: black;
 }
 
+#header a:hover{
+  color: white;
+}
+
 #banner{
   position: relative;
   margin-left: 263px;
@@ -146,8 +150,4 @@
   margin-bottom: 0px;
   color: white;
   font-size: 18px;
-}
-
-#header a:hover{
-  color: white;
 }
