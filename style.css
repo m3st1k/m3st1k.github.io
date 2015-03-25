@@ -65,7 +65,8 @@
 }
 
 #menulinks ul li:hover > ul{
-		display: block;
+  display: block;
+  padding-bottom: 8px;
 }
 
 #menulinks ul ul li a:hover{
