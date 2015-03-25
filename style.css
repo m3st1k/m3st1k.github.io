@@ -27,7 +27,7 @@
   position: relative;
   display: inline-table;
   margin-left: 281px;
-  margin-top: 5px;
+  margin-top: 13px;
 }
 
 #menulinks ul li{
@@ -68,6 +68,7 @@
 #menulinks ul li:hover > ul{
   display: block;
   padding-bottom: 10px;
+  margin-top: 0px;
 }
 
 #menulinks ul ul li a:hover{
