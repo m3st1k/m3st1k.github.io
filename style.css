@@ -38,6 +38,7 @@ body{
 
 #menulinks ul li{
   float: left;
+  color: grey;
 }
 
 #menulinks ul ul{
