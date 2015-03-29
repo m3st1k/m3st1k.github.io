@@ -142,7 +142,7 @@ body{
   text-indent: 2em;
 }
 
-.nocenter{
+p.nocenter{
   margin-left: -600px
 }
 
