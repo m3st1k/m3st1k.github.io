@@ -131,7 +131,7 @@ body{
   padding-top:10px;
   z-index: 2000;
   border: solid 1px #878787;
-  padding-bottom: 50px; 
+  padding-bottom: 50px;  
 }
 
 #maincontainer p{
@@ -139,6 +139,11 @@ body{
   margin-right: 150px;
   word-spacing: 4px;
   text-align: center
+  text-indent: 2em;
+}
+
+.nocenter{
+  margin-left: -600px
 }
 
 #maincontainer h1{
