@@ -124,6 +124,7 @@
   padding-top:10px;
   z-index: 2000;
   border: solid 1px #878787;
+  padding-bottom: 50px; 
 }
 
 #maincontainer p{
