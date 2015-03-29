@@ -119,7 +119,7 @@
   margin-top: -50px;
   margin-bottom: 35px;
   width: 1200px;
-  height: 650px;
+  height: auto;
   background: white;
   padding-top:10px;
   z-index: 2000;
@@ -127,11 +127,26 @@
 }
 
 #maincontainer p{
-  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  word-spacing: 5px;
 }
 
 #maincontainer h1{
   text-align: center;
+}
+
+#maincontainer h2{
+  text-align: center;
+}
+
+#maincontainer a{
+  word-spacing: 0px;
+  text-decoration: none;
+}
+
+#maincontainer a:hover{
+  text-decoration: underline;
 }
 
 #footer{
