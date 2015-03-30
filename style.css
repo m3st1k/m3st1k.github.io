@@ -5,14 +5,6 @@ body{
   background: #eaeaea;
 }
 
-html{
-  background: url(background2.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 #content{
   position: relative;
   min-height: 100%;
