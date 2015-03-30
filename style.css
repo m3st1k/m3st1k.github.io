@@ -143,6 +143,10 @@ body{
   
 }
 
+p.nocenter{
+  margin-left: -600px;
+}
+
 #maincontainer h1{
   text-align: center;
 }
